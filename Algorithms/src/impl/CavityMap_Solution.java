@@ -3,7 +3,10 @@ package impl;
 import java.util.Scanner;
 
 public class CavityMap_Solution {
-
+	/**
+	 * Test Edit
+	 * @param map
+	 */
 	private static void solve(int [][] map){
 		
 		for (int i = 0; i < map.length; i++) {
